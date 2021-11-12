@@ -1,4 +1,4 @@
-# civitatis
+# Smry
 Este proyecto hace uso de un contenedor, el cual puede ejecuta y expone los servicios necesarios para el funcionamiento de una SPA(Vue3) y un servicio de backend(PhP 7.4+).
 * Se hace uso de Vue3-starter-template(https://github.com/kouts/vue3-starter-template) como base para construir el front.
 
